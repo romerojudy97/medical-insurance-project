@@ -1,0 +1,13 @@
+AI Chat Documentation
+
+1. I used ChatGPT to help choose a dataset that would work well for a regression project with Linear Regression, Polynomial Regression, and Ridge Regression.
+
+2. I used ChatGPT to help structure the notebook, including the introduction, dataset description, EDA, outlier analysis, modeling, and conclusion sections.
+
+3. I used ChatGPT to help write and understand the code for single-variable and multi-variable regression models.
+
+4. I used ChatGPT to help build and interpret Linear Regression, Polynomial Regression, and Ridge Regression models.
+
+5. I used ChatGPT to help perform Ridge Regression hyperparameter tuning using GridSearchCV.
+
+6. I used ChatGPT to help debug notebook errors and explain the final model results.
